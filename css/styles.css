@@ -62,6 +62,13 @@ main > .tagline {
 	font-weight: 100;
 }
 
+ main > .topright {
+	position: fixed;
+	top: 0;
+	right: 0;
+	margin: 1.0rem;
+  }
+
 .icons-social i {
 	padding: 10px;
 }
